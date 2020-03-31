@@ -1,8 +1,10 @@
-Rheinland pflaz
-Bremen
-Berlin
-Brandenburg
-Hesse
-Baden-Württemberg
-Saarland
-Thuringia
+ Bundesland Und Bevölkerung
+
+Rheinland pflaz 100000
+Bremen    30000
+Berlin   7000000
+Brandenburg 3000000
+Hesse  4000000
+Baden-Württemberg 89990022
+Saarland   47996204
+Thuringia   43794924
