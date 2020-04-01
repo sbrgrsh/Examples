@@ -1,8 +1,8 @@
-Rheinland pflaz
-Bremen
+Rheinland pflaz    Mainz
+Bremen             Bremen
 Berlin
 Brandenburg
-Hesse
-Baden-Württemberg
-Saarland
-Thuringia
+Hesse              Wiesbad
+Baden-Württemberg  Stuttguart
+Saarland            Saarbrucken
+Thuringia           Erfurt
