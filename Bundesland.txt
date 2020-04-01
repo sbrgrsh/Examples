@@ -1,9 +1,9 @@
-Rheinland pflaz    Mainz
-Bremen             Bremen
+Rheinland pflaz    Mainz  TU Kaiserslautern
+Bremen             Bremen  University of Bremen
 Berlin
 Brandenburg
 Hesse              Wiesbad
 Baden-Württemberg  Stuttguart
-Saarland            Saarbrucken
+Saarland            Saarbrucken  University of Saarland
 Thuringia           Erfurt
 Bayern    
